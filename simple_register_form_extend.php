@@ -2,6 +2,7 @@
 /**
 *	Registration Form Class
 *	Create and validate user registration system
+*	Author: MD. Anisur Rahman Bhuyan
 */
 class RegisterForm
 {
